@@ -1,7 +1,7 @@
 # Hi there, I'm Fernando Moreira 👋
 
-```
-{ `I'm a Front-end Developer based in Brazil` }
+```js
+const shortBio = `I'm a Front-end Developer based in Brazil`;
 ```
 
 - I use daily: `.(t|j)s(x)`, `.vue` and `.(s)css`
