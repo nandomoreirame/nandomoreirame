@@ -1,9 +1,9 @@
 # Hi there, I'm Fernando Moreira 👋
 
-```js
+```ts
 const nando = {
   bio: 'Front-end Developer and Open Source enthusiast based in Brazil',
-  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'NodeJs', 'React', 'NextJs', 'VueJs', 'NuxtJs'],
+  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'NodeJs', 'React', 'NextJs', 'Remix.run', 'VueJs', 'NuxtJs'],
   tools: ['vscode', 'yarn', 'NX.dev', 'eslint', 'prettier', 'husky', 'commitlint', 'Stylelint', 'Bootstrap' 'Jest', 'ChakraUI'],
   challenge: `I'm focused on React, TypeScript and Nodejs`,
   more: [
