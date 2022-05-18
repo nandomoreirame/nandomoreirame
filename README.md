@@ -1,19 +1,44 @@
 # Hi there, I'm Fernando Moreira 👋
 
 ```ts
-const nando = {
+const NANDO_MOREIRA = {
   bio: 'Front-end Developer and Open Source enthusiast based in Brazil',
-  code: ['HTML', 'CSS', 'JavaScript', 'TypeScript', 'NodeJs', 'React', 'NextJs', 'Remix.run', 'VueJs', 'NuxtJs'],
-  tools: ['vscode', 'yarn', 'NX.dev', 'eslint', 'prettier', 'husky', 'commitlint', 'Stylelint', 'Bootstrap' 'Jest', 'ChakraUI'],
-  challenge: `I'm focused on React, TypeScript and Nodejs`,
+  challenge: `I'm focused on Angular, TypeScript, Nodejs and Spring Boot`,
+  code: [
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'TypeScript',
+    'NodeJs',
+    'React',
+    'NextJs',
+    'Angular',
+    'Remix.run',
+    'VueJs',
+    'NuxtJs',
+    'Spring Boot',
+  ],
+  tools: [
+    'vscode',
+    'yarn',
+    'NX.dev',
+    'eslint',
+    'prettier',
+    'husky',
+    'commitlint',
+    'Stylelint',
+    'Bootstrap',
+    'Jest',
+    'ChakraUI',
+  ],
   more: [
     `I use daily: ".(t|j)s(x)", ".vue" and ".(s)css"`,
     `I'm currently learning Nodejs and TypeScript`,
     `I'm looking to collaborate on social impact projects`,
     `Ask me about JavaScript, wine, bikes and personal management tools`,
     `Things I deeply care about: Design and User Experience`,
-  ]
-}
+  ],
+};
 ```
 
 ## How to reach me:
