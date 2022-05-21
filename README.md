@@ -1,7 +1,7 @@
 # Hi there, I'm Fernando Moreira 👋
 
 ```ts
-const NANDO_MOREIRA = {
+const NANDOMOREIRA = {
   bio: 'Front-end Developer and Open Source enthusiast based in Brazil',
   challenge: `I'm focused on Angular, TypeScript, Nodejs and Spring Boot`,
   code: [
