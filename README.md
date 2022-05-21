@@ -32,10 +32,10 @@ const NANDO_MOREIRA = {
     'ChakraUI',
   ],
   more: [
-    `I use daily: ".(t|j)s(x)", ".vue" and ".(s)css"`,
-    `I'm currently learning Nodejs and TypeScript`,
+    `I use daily: ".(t|j)s(x)", ".html" and ".(s)css"`,
+    `I'm currently learning Nodejs, Angular, TypeScript and Java (Spring boot)`,
     `I'm looking to collaborate on social impact projects`,
-    `Ask me about JavaScript, wine, bikes and personal management tools`,
+    `Ask me about JavaScript, Beer, Bikes and Personal Management Tools`,
     `Things I deeply care about: Design and User Experience`,
   ],
 };
