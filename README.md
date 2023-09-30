@@ -3,20 +3,19 @@
 ```ts
 const NANDOMOREIRA = {
   bio: 'Front-end Developer and Open Source enthusiast based in Brazil',
-  challenge: `I'm focused on Angular, TypeScript, Nodejs and Spring Boot`,
+  challenge: `I'm focused on React (Nextjs), Angular, TypeScript and Nodejs`,
   code: [
     'HTML',
     'CSS',
     'JavaScript',
     'TypeScript',
-    'NodeJs',
+    'Node.js',
     'React',
-    'NextJs',
+    'Next.js',
     'Angular',
     'Remix.run',
-    'VueJs',
-    'NuxtJs',
-    'Spring Boot',
+    'Vue.js',
+    'Nuxt',
   ],
   tools: [
     'vscode',
@@ -25,11 +24,10 @@ const NANDOMOREIRA = {
     'eslint',
     'prettier',
     'husky',
+    'nvm',
     'commitlint',
     'Stylelint',
-    'Bootstrap',
     'Jest',
-    'ChakraUI',
   ],
   more: [
     `I use daily: ".(t|j)s(x)", ".html" and ".(s)css"`,
