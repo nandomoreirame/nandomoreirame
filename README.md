@@ -31,7 +31,7 @@ const NANDOMOREIRA = {
   ],
   more: [
     `I use daily: ".(t|j)s(x)", ".html" and ".(s)css"`,
-    `I'm currently learning Nodejs, Angular, TypeScript and Java (Spring boot)`,
+    `I'm currently learning Node.js, Angular, TypeScript, Remix.run and Strapi.io`,
     `I'm looking to collaborate on social impact projects`,
     `Ask me about JavaScript, Beer, Bikes and Personal Management Tools`,
     `Things I deeply care about: Design and User Experience`,
