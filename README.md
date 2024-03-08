@@ -47,4 +47,4 @@ const NANDOMOREIRA = {
 
 ## How to reach me:
 
-[![EMAIL](https://img.shields.io/badge/Email-black?style=for-the-badge)](mailto:github@nandomoreira.dev) [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandomoreirame/) [![](https://img.shields.io/twitter/follow/oseunando?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/oseunando)
+[![EMAIL](https://img.shields.io/badge/Email-black?style=for-the-badge)](mailto:github@nandomoreira.dev) [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nandomoreirame/)
