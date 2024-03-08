@@ -2,23 +2,26 @@
 
 ```ts
 const NANDOMOREIRA = {
-  bio: 'Front-end Developer and Open Source enthusiast based in Brazil',
-  challenge: `I'm focused on React (Nextjs), Angular, TypeScript and Nodejs`,
+  bio: 'Front-end Developer and Open Source enthusiast based in Sorocaba/SP - Brazil',
+  challenge: `I'm focused on React (Nextjs, Remix.run and Astro), Angular, TypeScript and Nodejs (Express/Nestjs)`,
   code: [
     'HTML',
     'CSS',
     'JavaScript',
     'TypeScript',
-    'Node.js',
+    'Nodejs',
+    'NestJS',
     'React',
-    'Next.js',
+    'Nextjs',
     'Angular',
     'Remix.run',
     'Vue.js',
     'Nuxt',
+    'Astro',
   ],
   tools: [
     'vscode',
+    'pnpm',
     'yarn',
     'NX.dev',
     'eslint',
@@ -28,13 +31,16 @@ const NANDOMOREIRA = {
     'commitlint',
     'Stylelint',
     'Jest',
+    'Warp',
+    'docker',
+    'figma',
   ],
   more: [
     `I use daily: ".(t|j)s(x)", ".html" and ".(s)css"`,
-    `I'm currently learning Node.js, Angular, TypeScript, Remix.run and Strapi.io`,
+    `I'm currently learning Node.js (NestJS), Angular, TypeScript, Prisma, Remix.run and Strapi.io`,
     `I'm looking to collaborate on social impact projects`,
     `Ask me about Coffee, Beer, Bikes, aDHD (TDAH) and Personal Management Tools`,
-    `Things I deeply care about: Design and User Experience`,
+    `Things I deeply care about: User and Dev Experience, Design and A11y ♥️`,
   ],
 };
 ```
