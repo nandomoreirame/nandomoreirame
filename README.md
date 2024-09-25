@@ -2,8 +2,8 @@
 
 ```ts
 const NANDOMOREIRA = {
-  bio: 'Web Developer and Open Source enthusiast based in Sorocaba/SP - Brazil',
-  challenge: `I'm focused on Angular, TypeScript, React (Nextjs, Remix.run and Astro) and Nodejs (Express/Nestjs)`,
+  bio: 'Web Developer and Open Source enthusiast based in São Paulo/SP - Brazil',
+  challenge: `I'm focused on TypeScript, React (Nextjs, Remix.run and Astro), Angular and Nodejs (Express/Nestjs)`,
   code: [
     'HTML',
     'CSS',
