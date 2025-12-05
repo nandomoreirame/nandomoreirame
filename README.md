@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World&center=true&size=30)
 
-<h1>Eu sou Fernando Moreira Costa</h1>
+<h1>Eu sou o Nando Moreira!</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandomoreirame/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github@nandomoreira.dev)
