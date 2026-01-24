@@ -16,20 +16,22 @@
 
 ```typescript
 const NANDO_MOREIRA = {
-  bio: 'Desenvolvedor Web Full Stack e entusiasta de Open Source morando em São Paulo/SP - Brasil',
-  foco: 'TypeScript, React (Next.js, Remix/React-router), Bun.js (Elysia) e Node.js (Fastify/NestJS)',
+  bio: 'Desenvolvedor Full Stack e AI-Assisted Development Enthusiast em São Paulo/SP - Brasil',
+  foco: 'TypeScript, React/Next.js, Node.js/Bun.js e AI-Assisted Development (Claude Code, Cursor, Gemini CLI)',
   especialidades: [
+    'AI-Assisted Development (Claude Code, Cursor, Gemini CLI, Codex)',
     'Desenvolvimento Frontend (React, Next.js, Angular, Vue.js)',
-    'Desenvolvimento Backend (Node.js, Bun.js, PHP, NestJS, Express, Fastify)',
-    'Testes Automatizados (Unitários e Integração)',
-    'DevOps (AWS, Terraform, Docker, CI/CD, Github ACtions, Bitbucket Pipelines)',
+    'Desenvolvimento Backend (Node.js, Bun.js, NestJS, Fastify)',
+    'Prompt Engineering e Agentic Workflows',
+    'DevOps (AWS, Terraform, Docker, CI/CD, GitHub Actions)',
     'Git Flow, Conventional Commits e Semantic Version',
   ],
   tecnologias: {
-    frontend: ['TypeScript', 'JavaScript', 'React', 'Next.js', 'Angular', 'Vue.js', 'Remix.run', 'Astro'],
-    backend: ['Node.js', 'Bun.js', 'PHP', 'NestJS', 'Express', 'Prisma'],
-    cloud: ['AWS', 'Terraform', 'Docker', 'Docker Compose'],
-    tools: ['Git', 'GitHub Actions', 'Bitbucket Pipelines', 'Jest', 'ESLint', 'Prettier'],
+    ai: ['Claude Code', 'Cursor', 'Gemini CLI', 'GitHub Copilot', 'OpenAI Codex'],
+    frontend: ['TypeScript', 'React', 'Next.js', 'Vue.js', 'Remix', 'Astro'],
+    backend: ['Node.js', 'Bun.js', 'NestJS', 'Fastify', 'Prisma', 'Elysia'],
+    cloud: ['AWS', 'Terraform', 'Docker', 'Vercel'],
+    tools: ['Git', 'GitHub Actions', 'Jest', 'Vitest', 'ESLint', 'Prettier'],
   },
   interesses: [
     'Projetos de impacto social',
@@ -50,6 +52,14 @@ const NANDO_MOREIRA = {
 ---
 
 ## Tecnologias e Ferramentas
+
+### AI & Development Tools
+
+![Claude](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Frontend
 
@@ -101,20 +111,21 @@ const NANDO_MOREIRA = {
 
 ## O que estou fazendo
 
-- Atualmente trabalhando em projetos Full Stack com **Node.js/Bun.js** e **React**
-- Aprendendo mais sobre **Bun.js**, **Prisma**, **Remix/React Router v7** e **Svelte**
-- Procurando colaborar em **projetos de impacto social**
-- Nas horas vagas: **Programação**, **Café**, **Cerveja**, **Drinks**, **Bicicleta**, **Música** e **XBox**
+- Explorando **AI-Assisted Development** com **Claude Code**, **Cursor** e **Gemini CLI**
+- Desenvolvendo workflows de **Agentic AI** para automação de desenvolvimento
+- Criando **custom agents** e **prompt engineering patterns** para produtividade
+- Trabalhando em projetos Full Stack com **Next.js**, **Bun.js** e **React**
+- Aprendendo mais sobre **LLMs**, **MCP (Model Context Protocol)** e **AI Agents**
+- Nas horas vagas: **Café**, **Cerveja**, **Drinks**, **Bicicleta**, **Música** e **XBox**
 - Como me encontrar: [github@nandomoreira.dev](mailto:github@nandomoreira.dev)
-- Curiosidade: Uso diariamente arquivos `.md`, `.sh`, `.ts` e `.tsx`
 
 ---
 
 ## Valores e Princípios
 
+- **Acessibilidade (A11y)**
 - **User Experience (UX)**
 - **Developer Experience (DX)**
-- **Design** e **Acessibilidade (A11y)**
 - **Código limpo** e **bem estruturado**
 - **Testes abrangentes** (unitários e integração)
 - **Documentação** clara e completa
