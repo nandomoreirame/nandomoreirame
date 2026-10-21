@@ -1,132 +1,56 @@
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World&center=true&size=30)
-
-<h1>Oi, eu sou o Nando!</h1>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandomoreirame/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github@nandomoreira.dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nandomoreira.dev)
-
-</div>
-
----
-
-## Sobre Mim
-
 ```typescript
-const NANDO_MOREIRA = {
-  bio: 'Desenvolvedor Full Stack e AI-Assisted Development Enthusiast em São Paulo/SP - Brasil',
-  foco: 'TypeScript, React/Next.js, Node.js/Bun.js e AI-Assisted Development (Claude Code, Cursor, Gemini CLI)',
+const NANDOMOREIRA = {
+  bio: 'Desenvolvedor de software e engenheiro de IA, do dado à produção, em São Paulo/SP - Brasil',
+  carreira: 'Construindo software desde 2011, de agência a banco, e open source desde 2012',
+  foco: 'Agentes de IA e produtos com IA em produção, esteiras de dados e padrão de engenharia com IA',
+  disponibilidade: 'Aberto a projetos de escopo fechado e a novas posições sêniores, CLT ou PJ',
   especialidades: [
-    'AI-Assisted Development (Claude Code, Cursor, Gemini CLI, Codex)',
-    'Desenvolvimento Frontend (React, Next.js, Angular, Vue.js)',
-    'Desenvolvimento Backend (Node.js, Bun.js, NestJS, Fastify)',
-    'Prompt Engineering e Agentic Workflows',
-    'DevOps (AWS, Terraform, Docker, CI/CD, GitHub Actions)',
-    'Git Flow, Conventional Commits e Semantic Version',
+    'IA aplicada (Claude Code: skills, hooks, subagentes, MCP; orquestração multi-agente)',
+    'Esteiras de dados e ETL em produção (Python, Polars, normalização e validação de dados)',
+    'Produto de ponta a ponta: interface, backend, banco e infraestrutura',
+    'Frontend (React, Next.js, Vue.js/Nuxt, Angular, Astro, design systems)',
+    'Cloud (AWS e Google Cloud), CI/CD e Docker',
+    'TDD, arquitetura hexagonal, Feature-Sliced Design, Git Flow e Conventional Commits',
   ],
   tecnologias: {
-    ai: ['Claude Code', 'Cursor', 'Gemini CLI', 'GitHub Copilot', 'OpenAI Codex'],
-    frontend: ['TypeScript', 'React', 'Next.js', 'Vue.js', 'Remix', 'Astro'],
-    backend: ['Node.js', 'Bun.js', 'NestJS', 'Fastify', 'Prisma', 'Elysia'],
-    cloud: ['AWS', 'Terraform', 'Docker', 'Vercel'],
-    tools: ['Git', 'GitHub Actions', 'Jest', 'Vitest', 'ESLint', 'Prettier'],
+    ai: ['Claude Code', 'Codex', 'Gemini CLI', 'Grok', 'Cursor', 'MCP'],
+    frontend: ['TypeScript', 'React', 'Next.js', 'Vue.js', 'Nuxt', 'Angular', 'Astro', 'Tailwind CSS'],
+    backend: ['Python', 'FastAPI', 'Node.js', 'Bun', 'Hono', 'Express', 'PHP'],
+    dados: ['Polars', 'pandas', 'PostgreSQL', 'BigQuery', 'DynamoDB', 'Firebase'],
+    cloud: ['AWS', 'Google Cloud', 'Docker', 'GitHub Actions'],
+    sistemas: ['Rust', 'Go', 'Linux'],
+    tools: ['Git', 'Vitest', 'Playwright', 'pytest', 'ESLint', 'Prettier'],
   },
+  conquistas: [
+    'De ~5 dias para até 30 min o preparo de uma base de cliente na pipeline (Liquid AI)',
+    'Cobertura de 0% para 84% e 92% em pipelines que rodavam em produção sem teste',
+    'Mais de 4.800 casos de teste protegendo uma engine de pré-normalização de dados',
+    'Seis anos em produtos de alta escala: Itaú Unibanco, Pipefy e Skyone',
+  ],
+  fazendoAgora: [
+    'Construindo o Forja, cliente desktop que reúne Claude Code, Codex e Gemini numa só interface (Electron, React, TypeScript)',
+    'Mantendo meu framework de desenvolvimento assistido por IA sobre Claude Code, com TDD obrigatório, portões de qualidade, guard-rails de segurança e memória persistente (Amnesia)',
+    'Criando ferramentas para o meu Linux em Rust e Go: tumodori, hypr-switcher, FlipClock e o tema Terminal Noir',
+    'Escrevendo plugins para o Noctalia Shell: Daybar, AI Bar, Gistbar e Desktop Sticky Notes',
+    'Escrevendo no blog sobre IA, Linux e o que eu construo: https://nandomoreira.dev/posts',
+  ],
   interesses: [
     'Projetos de impacto social',
     'Café',
     'Cerveja',
+    'Drinks',
     'Bicicletas',
     'Música',
+    'XBox',
   ],
   valores: [
+    'Acessibilidade (A11y) e Design',
     'User Experience (UX) e Developer Experience (DX)',
-    'Design e Acessibilidade (A11y)',
     'Código limpo e bem estruturado',
-    'Testes unitários e E2E',
+    'Teste antes do código (TDD) e testes abrangentes (unitários, integração e E2E)',
+    'Documentação clara e completa',
+    'CI/CD e automação',
   ],
+  contato: 'github@nandomoreira.dev',
 };
 ```
-
----
-
-## Tecnologias e Ferramentas
-
-### AI & Development Tools
-
-![Claude](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Frontend
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## Contribuições
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nandomoreirame&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF)
-
-</div>
-
----
-
-## O que estou fazendo
-
-- Explorando **AI-Assisted Development** com **Claude Code**, **Cursor** e **Gemini CLI**
-- Desenvolvendo workflows de **Agentic AI** para automação de desenvolvimento
-- Criando **custom agents** e **prompt engineering patterns** para produtividade
-- Trabalhando em projetos Full Stack com **Next.js**, **Bun.js** e **React**
-- Aprendendo mais sobre **LLMs**, **MCP (Model Context Protocol)** e **AI Agents**
-- Nas horas vagas: **Café**, **Cerveja**, **Drinks**, **Bicicleta**, **Música** e **XBox**
-- Como me encontrar: [github@nandomoreira.dev](mailto:github@nandomoreira.dev)
-
----
-
-## Valores e Princípios
-
-- **Acessibilidade (A11y)**
-- **User Experience (UX)**
-- **Developer Experience (DX)**
-- **Código limpo** e **bem estruturado**
-- **Testes abrangentes** (unitários e integração)
-- **Documentação** clara e completa
-- **CI/CD** e **automação**
