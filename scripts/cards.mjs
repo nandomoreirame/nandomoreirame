@@ -616,7 +616,6 @@ export function renderTech(profile) {
 export function renderReadme(profile, projects, summary) {
   const cacheKey = `${summary.latest.date || '0'}-${summary.total}`;
   const version = `?v=${cacheKey}`;
-  const views = `https://komarev.com/ghpvc/?username=${encodeURIComponent(profile.login)}&amp;label=VISUALIZA%C3%87%C3%95ES&amp;style=flat-square&amp;color=F5A623&amp;base=0`;
 
   return `<div align="center">
 
@@ -633,10 +632,6 @@ export function renderReadme(profile, projects, summary) {
 <br/>
 
 <img src="./assets/tech-ecosystem.svg${version}" alt="${escapeXml(techLabel(profile))}" width="100%" />
-
-<br/>
-
-<img src="${views}" alt="Visualizações do perfil" />
 
 </div>
 `;

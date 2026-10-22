@@ -14,8 +14,4 @@
 
 <img src="./assets/tech-ecosystem.svg?v=2026-10-22-9714" alt="ECOSSISTEMA. as tecnologias com que eu construo software. IA E AGENTES: Claude Code, Codex, MCP, Gemini CLI, Grok, Cursor. FRONTEND: TypeScript, React, Next.js, Vue.js, Nuxt, Angular, Astro, Tailwind CSS. BACKEND E DADOS: Python, FastAPI, Polars, Node.js, Bun, Hono, PostgreSQL, BigQuery. CLOUD E SISTEMAS: AWS, Google Cloud, Docker, GitHub Actions, Rust, Go, Linux." width="100%" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nandomoreirame&amp;label=VISUALIZA%C3%87%C3%95ES&amp;style=flat-square&amp;color=F5A623&amp;base=0" alt="Visualizações do perfil" />
-
 </div>

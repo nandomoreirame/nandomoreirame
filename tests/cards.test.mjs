@@ -419,7 +419,7 @@ test('renderTech prints every group and technology', () => {
   assert.doesNotMatch(svg, /[—–]/);
 });
 
-test('renderReadme links the three cards, the site and the view counter', () => {
+test('renderReadme links the three cards and the site', () => {
   const readme = renderReadme(profile, [
     { name: 'terminalnoir', pushedAt: '2026-10-21T19:00:00Z' },
   ], {
@@ -435,8 +435,7 @@ test('renderReadme links the three cards, the site and the view counter', () => 
   assert.match(readme, /assets\/tech-ecosystem\.svg\?v=2026-01-11-100/);
   assert.match(readme, /100 contribuições/);
   assert.match(readme, /3 dias ativos/);
-  assert.match(readme, /komarev\.com\/ghpvc\/\?username=nandomoreirame/);
-  assert.match(readme, /color=F5A623/);
-  assert.match(readme, /VISUALIZA%C3%87%C3%95ES/);
+  assert.doesNotMatch(readme, /komarev\.com/);
+  assert.doesNotMatch(readme, /Visualizações do perfil/);
   assert.doesNotMatch(readme, /[—–]/);
 });
