@@ -1,56 +1,21 @@
-```typescript
-const NANDOMOREIRA = {
-  bio: 'Desenvolvedor de software e engenheiro de IA, do dado à produção, em São Paulo/SP - Brasil',
-  carreira: 'Construindo software desde 2011, de agência a banco, e open source desde 2012',
-  foco: 'Agentes de IA e produtos com IA em produção, esteiras de dados e padrão de engenharia com IA',
-  disponibilidade: 'Aberto a projetos de escopo fechado e a novas posições sêniores, CLT ou PJ',
-  especialidades: [
-    'IA aplicada (Claude Code: skills, hooks, subagentes, MCP; orquestração multi-agente)',
-    'Esteiras de dados e ETL em produção (Python, Polars, normalização e validação de dados)',
-    'Produto de ponta a ponta: interface, backend, banco e infraestrutura',
-    'Frontend (React, Next.js, Vue.js/Nuxt, Angular, Astro, design systems)',
-    'Cloud (AWS e Google Cloud), CI/CD e Docker',
-    'TDD, arquitetura hexagonal, Feature-Sliced Design, Git Flow e Conventional Commits',
-  ],
-  tecnologias: {
-    ai: ['Claude Code', 'Codex', 'Gemini CLI', 'Grok', 'Cursor', 'MCP'],
-    frontend: ['TypeScript', 'React', 'Next.js', 'Vue.js', 'Nuxt', 'Angular', 'Astro', 'Tailwind CSS'],
-    backend: ['Python', 'FastAPI', 'Node.js', 'Bun', 'Hono', 'Express', 'PHP'],
-    dados: ['Polars', 'pandas', 'PostgreSQL', 'BigQuery', 'DynamoDB', 'Firebase'],
-    cloud: ['AWS', 'Google Cloud', 'Docker', 'GitHub Actions'],
-    sistemas: ['Rust', 'Go', 'Linux'],
-    tools: ['Git', 'Vitest', 'Playwright', 'pytest', 'ESLint', 'Prettier'],
-  },
-  conquistas: [
-    'De ~5 dias para até 30 min o preparo de uma base de cliente na pipeline (Liquid AI)',
-    'Cobertura de 0% para 84% e 92% em pipelines que rodavam em produção sem teste',
-    'Mais de 4.800 casos de teste protegendo uma engine de pré-normalização de dados',
-    'Seis anos em produtos de alta escala: Itaú Unibanco, Pipefy e Skyone',
-  ],
-  fazendoAgora: [
-    'Construindo o Forja, cliente desktop que reúne Claude Code, Codex e Gemini numa só interface (Electron, React, TypeScript)',
-    'Mantendo meu framework de desenvolvimento assistido por IA sobre Claude Code, com TDD obrigatório, portões de qualidade, guard-rails de segurança e memória persistente (Amnesia)',
-    'Criando ferramentas para o meu Linux em Rust e Go: tumodori, hypr-switcher, FlipClock e o tema Terminal Noir',
-    'Escrevendo plugins para o Noctalia Shell: Daybar, AI Bar, Gistbar e Desktop Sticky Notes',
-    'Escrevendo no blog sobre IA, Linux e o que eu construo: https://nandomoreira.dev/posts',
-  ],
-  interesses: [
-    'Projetos de impacto social',
-    'Café',
-    'Cerveja',
-    'Drinks',
-    'Bicicletas',
-    'Música',
-    'XBox',
-  ],
-  valores: [
-    'Acessibilidade (A11y) e Design',
-    'User Experience (UX) e Developer Experience (DX)',
-    'Código limpo e bem estruturado',
-    'Teste antes do código (TDD) e testes abrangentes (unitários, integração e E2E)',
-    'Documentação clara e completa',
-    'CI/CD e automação',
-  ],
-  contato: 'github@nandomoreira.dev',
-};
-```
+<div align="center">
+
+<a href="https://nandomoreira.dev">
+  <img src="./assets/profile-header.svg?v=2026-10-22-9714" alt="Fernando Moreira. ENGENHEIRO DE IA  ·  FULL CYCLE  ·  PRODUCT BUILDER. do dado à produção, em São Paulo. Contato: github@nandomoreira.dev. Últimos repositórios: nandomoreira.dev (22 out), terminalnoir (21 out), noctalia-daybar (20 out), noctalia-aibar (14 out), noctalia-gistbar (10 out)" width="100%" />
+</a>
+
+<br/>
+
+<a href="https://github.com/nandomoreirame">
+  <img src="./assets/contributions.svg?v=2026-10-22-9714" alt="9.714 contribuições nos últimos 12 meses, 257 dias ativos, pico de 211 em 7 jan." width="100%" />
+</a>
+
+<br/>
+
+<img src="./assets/tech-ecosystem.svg?v=2026-10-22-9714" alt="ECOSSISTEMA. as tecnologias com que eu construo software. IA E AGENTES: Claude Code, Codex, MCP, Gemini CLI, Grok, Cursor. FRONTEND: TypeScript, React, Next.js, Vue.js, Nuxt, Angular, Astro, Tailwind CSS. BACKEND E DADOS: Python, FastAPI, Polars, Node.js, Bun, Hono, PostgreSQL, BigQuery. CLOUD E SISTEMAS: AWS, Google Cloud, Docker, GitHub Actions, Rust, Go, Linux." width="100%" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nandomoreirame&amp;label=VISUALIZA%C3%87%C3%95ES&amp;style=flat-square&amp;color=F5A623&amp;base=0" alt="Visualizações do perfil" />
+
+</div>

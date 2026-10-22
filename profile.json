@@ -1,0 +1,39 @@
+{
+  "login": "nandomoreirame",
+  "name": "Fernando Moreira",
+  "status": "DISPONÍVEL",
+  "roles": "ENGENHEIRO DE IA  ·  FULL CYCLE  ·  PRODUCT BUILDER",
+  "tagline": "do dado à produção, em São Paulo",
+  "promptPath": "~/github/nandomoreirame",
+  "promptCommand": "software desde 2011",
+  "contact": "github@nandomoreira.dev",
+  "site": "https://nandomoreira.dev",
+  "ecosystem": {
+    "title": "ECOSSISTEMA",
+    "subtitle": "as tecnologias com que eu construo software",
+    "kicker": "IA  ·  PRODUTO  ·  FULL CYCLE",
+    "groups": [
+      {
+        "title": "IA E AGENTES",
+        "tone": "green",
+        "items": ["Claude Code", "Codex", "MCP", "Gemini CLI", "Grok", "Cursor"]
+      },
+      {
+        "title": "FRONTEND",
+        "tone": "blue",
+        "items": ["TypeScript", "React", "Next.js", "Vue.js", "Nuxt", "Angular", "Astro", "Tailwind CSS"]
+      },
+      {
+        "title": "BACKEND E DADOS",
+        "tone": "purple",
+        "items": ["Python", "FastAPI", "Polars", "Node.js", "Bun", "Hono", "PostgreSQL", "BigQuery"]
+      },
+      {
+        "title": "CLOUD E SISTEMAS",
+        "tone": "amber",
+        "maxChars": 23,
+        "items": ["AWS", "Google Cloud", "Docker", "GitHub Actions", "Rust", "Go", "Linux"]
+      }
+    ]
+  }
+}
