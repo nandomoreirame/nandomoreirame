@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="308" viewBox="0 0 960 308" role="img" aria-label="Fernando Moreira. ENGENHEIRO DE IA  ·  FULL CYCLE  ·  PRODUCT BUILDER. do dado à produção, em São Paulo. Contato: github@nandomoreira.dev. Últimos repositórios: nandomoreira.dev (22 out), terminalnoir (21 out), noctalia-daybar (20 out), noctalia-aibar (14 out), noctalia-gistbar (10 out)">
-<title>Fernando Moreira. ENGENHEIRO DE IA  ·  FULL CYCLE  ·  PRODUCT BUILDER. do dado à produção, em São Paulo. Contato: github@nandomoreira.dev. Últimos repositórios: nandomoreira.dev (22 out), terminalnoir (21 out), noctalia-daybar (20 out), noctalia-aibar (14 out), noctalia-gistbar (10 out)</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="308" viewBox="0 0 960 308" role="img" aria-label="Fernando Moreira. ENGENHEIRO DE IA  ·  FULL CYCLE  ·  PRODUCT BUILDER. do dado à produção, em São Paulo. Contato: github@nandomoreira.dev. Últimos repositórios: nandomoreira.dev (23 out), terminalnoir-astro-theme (23 out), terminalnoir (21 out), noctalia-daybar (20 out), noctalia-aibar (14 out)">
+<title>Fernando Moreira. ENGENHEIRO DE IA  ·  FULL CYCLE  ·  PRODUCT BUILDER. do dado à produção, em São Paulo. Contato: github@nandomoreira.dev. Últimos repositórios: nandomoreira.dev (23 out), terminalnoir-astro-theme (23 out), terminalnoir (21 out), noctalia-daybar (20 out), noctalia-aibar (14 out)</title>
 <defs>
 <clipPath id="header"><rect width="960" height="308" rx="18"/></clipPath>
 </defs>
@@ -43,39 +43,39 @@
 <rect width="284" height="72" rx="12" fill="#18181B" stroke="#F5A623" stroke-opacity="0.58"/>
 <circle cx="22" cy="36" r="4" fill="#F5A623"/>
 <text x="38" y="41" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">nandomoreira.dev</text>
-<text x="268" y="41" fill="#A1A1AA" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">22 out</text>
+<text x="268" y="41" fill="#A1A1AA" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">23 out</text>
 </g>
 <g transform="translate(16 226)">
 <animateTransform attributeName="transform" type="translate" values="16 226;16 164;16 164;16 69;16 69;16 -26;16 -26;16 -88;16 -88" keyTimes="0;0.04;0.2;0.24;0.4;0.44;0.56;0.6;1" dur="15s" begin="-3s" repeatCount="indefinite"/>
 <animate attributeName="opacity" values="0;1;1;1;1;1;1;0;0" keyTimes="0;0.04;0.2;0.24;0.4;0.44;0.56;0.6;1" dur="15s" begin="-3s" repeatCount="indefinite"/>
 <rect width="284" height="72" rx="12" fill="#18181B" stroke="#F5A623" stroke-opacity="0.58"/>
 <circle cx="22" cy="36" r="4" fill="#F5A623"/>
-<text x="38" y="41" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">terminalnoir</text>
-<text x="268" y="41" fill="#A1A1AA" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">21 out</text>
+<text x="38" y="41" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">terminalnoir-astro-theme</text>
+<text x="268" y="41" fill="#A1A1AA" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">23 out</text>
 </g>
 <g transform="translate(16 226)">
 <animateTransform attributeName="transform" type="translate" values="16 226;16 164;16 164;16 69;16 69;16 -26;16 -26;16 -88;16 -88" keyTimes="0;0.04;0.2;0.24;0.4;0.44;0.56;0.6;1" dur="15s" begin="-6s" repeatCount="indefinite"/>
 <animate attributeName="opacity" values="0;1;1;1;1;1;1;0;0" keyTimes="0;0.04;0.2;0.24;0.4;0.44;0.56;0.6;1" dur="15s" begin="-6s" repeatCount="indefinite"/>
 <rect width="284" height="72" rx="12" fill="#18181B" stroke="#F5A623" stroke-opacity="0.58"/>
 <circle cx="22" cy="36" r="4" fill="#F5A623"/>
-<text x="38" y="41" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">noctalia-daybar</text>
-<text x="268" y="41" fill="#A1A1AA" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">20 out</text>
+<text x="38" y="41" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">terminalnoir</text>
+<text x="268" y="41" fill="#A1A1AA" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">21 out</text>
 </g>
 <g transform="translate(16 226)">
 <animateTransform attributeName="transform" type="translate" values="16 226;16 164;16 164;16 69;16 69;16 -26;16 -26;16 -88;16 -88" keyTimes="0;0.04;0.2;0.24;0.4;0.44;0.56;0.6;1" dur="15s" begin="-9s" repeatCount="indefinite"/>
 <animate attributeName="opacity" values="0;1;1;1;1;1;1;0;0" keyTimes="0;0.04;0.2;0.24;0.4;0.44;0.56;0.6;1" dur="15s" begin="-9s" repeatCount="indefinite"/>
 <rect width="284" height="72" rx="12" fill="#18181B" stroke="#F5A623" stroke-opacity="0.58"/>
 <circle cx="22" cy="36" r="4" fill="#F5A623"/>
-<text x="38" y="41" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">noctalia-aibar</text>
-<text x="268" y="41" fill="#A1A1AA" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">14 out</text>
+<text x="38" y="41" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">noctalia-daybar</text>
+<text x="268" y="41" fill="#A1A1AA" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">20 out</text>
 </g>
 <g transform="translate(16 226)">
 <animateTransform attributeName="transform" type="translate" values="16 226;16 164;16 164;16 69;16 69;16 -26;16 -26;16 -88;16 -88" keyTimes="0;0.04;0.2;0.24;0.4;0.44;0.56;0.6;1" dur="15s" begin="-12s" repeatCount="indefinite"/>
 <animate attributeName="opacity" values="0;1;1;1;1;1;1;0;0" keyTimes="0;0.04;0.2;0.24;0.4;0.44;0.56;0.6;1" dur="15s" begin="-12s" repeatCount="indefinite"/>
 <rect width="284" height="72" rx="12" fill="#18181B" stroke="#F5A623" stroke-opacity="0.58"/>
 <circle cx="22" cy="36" r="4" fill="#F5A623"/>
-<text x="38" y="41" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">noctalia-gistbar</text>
-<text x="268" y="41" fill="#A1A1AA" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">10 out</text>
+<text x="38" y="41" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="700">noctalia-aibar</text>
+<text x="268" y="41" fill="#A1A1AA" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="12" text-anchor="end">14 out</text>
 </g>
 </g>
 </svg>
