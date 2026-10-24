@@ -44,5 +44,5 @@ jobs:
             echo "No changes"
             exit 0
           fi
-          git commit -m "chore(profile): refresh GitHub profile cards"
+          git commit -m "🔥 chore(profile): refresh GitHub profile cards"
           git push
