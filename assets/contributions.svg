@@ -19,8 +19,8 @@
 <text x="250" y="124" fill="#6B6B74" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.7">DIAS ATIVOS</text>
 <text x="430" y="104" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">211</text>
 <text x="430" y="124" fill="#6B6B74" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.7">PICO · 7 jan</text>
-<text x="650" y="104" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">26</text>
-<text x="650" y="124" fill="#6B6B74" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.7">ÚLTIMO · 5 nov</text>
+<text x="650" y="104" fill="#F4F4F5" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">0</text>
+<text x="650" y="124" fill="#6B6B74" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="0.7">ÚLTIMO · 6 nov</text>
 <text x="58.00" y="156" fill="#6B6B74" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="11">nov</text>
 <text x="140.79" y="156" fill="#6B6B74" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="11">dez</text>
 <text x="207.02" y="156" fill="#6B6B74" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="11">jan</text>
@@ -406,6 +406,7 @@
 <g><title>25 contribuições em 2026-11-03</title><rect data-day="2026-11-03" data-level="FIRST_QUARTILE" x="919.00" y="205.12" width="13" height="13" rx="2" fill="#5C3D12" shape-rendering="crispEdges"/></g>
 <g><title>34 contribuições em 2026-11-04</title><rect data-day="2026-11-04" data-level="FIRST_QUARTILE" x="919.00" y="221.67" width="13" height="13" rx="2" fill="#5C3D12" shape-rendering="crispEdges"/></g>
 <g><title>26 contribuições em 2026-11-05</title><rect data-day="2026-11-05" data-level="FIRST_QUARTILE" x="919.00" y="238.23" width="13" height="13" rx="2" fill="#5C3D12" shape-rendering="crispEdges"/></g>
+<g><title>0 contribuições em 2026-11-06</title><rect data-day="2026-11-06" data-level="NONE" x="919.00" y="254.79" width="13" height="13" rx="2" fill="#222226" shape-rendering="crispEdges"/></g>
 <text x="28" y="307" fill="#6B6B74" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="11">cada quadrado é um dia  ·  a cor mostra o volume</text>
 <text x="792" y="307" fill="#6B6B74" font-family="Noto Sans, Segoe UI, Helvetica, Arial, sans-serif" font-size="11">Menos</text>
 <rect x="828" y="297" width="11" height="11" rx="2" fill="#222226"/><rect x="844" y="297" width="11" height="11" rx="2" fill="#5C3D12"/><rect x="860" y="297" width="11" height="11" rx="2" fill="#A56B14"/><rect x="876" y="297" width="11" height="11" rx="2" fill="#F5A623"/><rect x="892" y="297" width="11" height="11" rx="2" fill="#FACF9E"/>
