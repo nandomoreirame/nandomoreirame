@@ -1,17 +1,17 @@
 <div align="center">
 
 <a href="https://nandomoreira.dev">
-  <img src="./assets/profile-header.svg?v=2026-11-08-10625" alt="Fernando Moreira. ENGENHEIRO DE IA  ·  FULL CYCLE  ·  PRODUCT BUILDER. do dado à produção, em São Paulo. Contato: github@nandomoreira.dev. Últimos repositórios: nandomoreira.dev (7 nov), links (7 nov), job-radar-desktop (2 nov), terminalnoir (2 nov), forja (1 nov)" width="100%" />
+  <img src="./assets/profile-header.svg?v=2026-11-09-10524" alt="Fernando Moreira. ENGENHEIRO DE IA  ·  FULL CYCLE  ·  PRODUCT BUILDER. do dado à produção, em São Paulo. Contato: github@nandomoreira.dev. Últimos repositórios: playground (9 nov), links (9 nov), nandomoreira.dev (9 nov), noctalia-aibar (8 nov), job-radar-desktop (2 nov)" width="100%" />
 </a>
 
 <br/>
 
 <a href="https://github.com/nandomoreirame">
-  <img src="./assets/contributions.svg?v=2026-11-08-10625" alt="10.625 contribuições nos últimos 12 meses, 255 dias ativos, pico de 211 em 7 jan." width="100%" />
+  <img src="./assets/contributions.svg?v=2026-11-09-10524" alt="10.524 contribuições nos últimos 12 meses, 257 dias ativos, pico de 211 em 7 jan." width="100%" />
 </a>
 
 <br/>
 
-<img src="./assets/tech-ecosystem.svg?v=2026-11-08-10625" alt="ECOSSISTEMA. as tecnologias com que eu construo software. IA E AGENTES: Claude Code, Codex, MCP, Gemini CLI, Grok, Cursor. FRONTEND: TypeScript, React, Next.js, Vue.js, Nuxt, Angular, Astro, Tailwind CSS. BACKEND E DADOS: Python, FastAPI, Polars, Node.js, Bun, Hono, PostgreSQL, BigQuery. CLOUD E SISTEMAS: AWS, Google Cloud, Docker, GitHub Actions, Rust, Go, Linux." width="100%" />
+<img src="./assets/tech-ecosystem.svg?v=2026-11-09-10524" alt="ECOSSISTEMA. as tecnologias com que eu construo software. IA E AGENTES: Claude Code, Codex, MCP, Gemini CLI, Grok, Cursor. FRONTEND: TypeScript, React, Next.js, Vue.js, Nuxt, Angular, Astro, Tailwind CSS. BACKEND E DADOS: Python, FastAPI, Polars, Node.js, Bun, Hono, PostgreSQL, BigQuery. CLOUD E SISTEMAS: AWS, Google Cloud, Docker, GitHub Actions, Rust, Go, Linux." width="100%" />
 
 </div>
